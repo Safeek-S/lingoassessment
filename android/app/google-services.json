@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "175157767259",
+    "project_id": "assessment-977fa",
+    "storage_bucket": "assessment-977fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175157767259:android:0603f6d32841dc49df237e",
+        "android_client_info": {
+          "package_name": "com.example.lingoassessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOPrhFH7tlme2HWorwbNer0OgU4pfzJsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175157767259:android:cd6de108e6a4668bdf237e",
+        "android_client_info": {
+          "package_name": "com.example.totalx_assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOPrhFH7tlme2HWorwbNer0OgU4pfzJsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175157767259:android:428169d192f749eedf237e",
+        "android_client_info": {
+          "package_name": "com.example.urban_culture_assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOPrhFH7tlme2HWorwbNer0OgU4pfzJsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
