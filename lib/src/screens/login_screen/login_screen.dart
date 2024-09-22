@@ -20,7 +20,7 @@ class _LoginScreenState extends State<LoginScreen> {
 
   @override
   void dispose() {
-    // Dispose controllers to prevent memory leaks
+
     emailController.dispose();
     passwordController.dispose();
     super.dispose();
@@ -28,7 +28,7 @@ class _LoginScreenState extends State<LoginScreen> {
 
   @override
   void initState() {
-    // TODO: implement initState
+    
     super.initState();
 
     WidgetsBinding.instance.addPostFrameCallback((_) {
